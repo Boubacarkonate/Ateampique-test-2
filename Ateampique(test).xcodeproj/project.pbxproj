@@ -1,0 +1,469 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8F05938C2AB9C53600104C27 /* Ecran Medias.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F05938B2AB9C53600104C27 /* Ecran Medias.swift */; };
+		8F16B3D62AB85228004CB563 /* Structure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F16B3D52AB85228004CB563 /* Structure.swift */; };
+		8F1C39932AB493A40069746C /* SpaceGrotesk-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8F1C39922AB493A40069746C /* SpaceGrotesk-Bold.otf */; };
+		8F1C39952AB495680069746C /* Ecran Nouveau Projet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1C39942AB495680069746C /* Ecran Nouveau Projet.swift */; };
+		8F275F582AC429460071E614 /* EcranEgypteAntique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F572AC429460071E614 /* EcranEgypteAntique.swift */; };
+		8F275F5A2AC42E7B0071E614 /* VirginiePageProgressionTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F592AC42E7B0071E614 /* VirginiePageProgressionTest.swift */; };
+		8F275F5C2AC4300F0071E614 /* Mymedia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F5B2AC4300F0071E614 /* Mymedia.swift */; };
+		8F275F5E2AC45C2B0071E614 /* EgyptianVideosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F5D2AC45C2B0071E614 /* EgyptianVideosView.swift */; };
+		8F275F602AC45F770071E614 /* VirginiePageProfilTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F5F2AC45F770071E614 /* VirginiePageProfilTest.swift */; };
+		8F275F622AC469B20071E614 /* MediaNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F612AC469B20071E614 /* MediaNotes.swift */; };
+		8F275F642AC469E00071E614 /* BruitBlanc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F632AC469E00071E614 /* BruitBlanc.swift */; };
+		8F275F662AC46B1B0071E614 /* bruitBlanc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8F275F652AC46B1B0071E614 /* bruitBlanc.mp3 */; };
+		8F275F682AC470510071E614 /* Methodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F672AC470510071E614 /* Methodes.swift */; };
+		8F275F6A2AC470670071E614 /* MePomo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F692AC470670071E614 /* MePomo.swift */; };
+		8F275F6C2AC470730071E614 /* BruitsBlancs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F6B2AC470730071E614 /* BruitsBlancs.swift */; };
+		8F275F6E2AC4708B0071E614 /* Carthographie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F6D2AC4708B0071E614 /* Carthographie.swift */; };
+		8F275F702AC4709A0071E614 /* ZappelPhillip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F6F2AC4709A0071E614 /* ZappelPhillip.swift */; };
+		8F275F722AC470A60071E614 /* Tdah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F712AC470A60071E614 /* Tdah.swift */; };
+		8F275F742AC471D70071E614 /* Kinesthesie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F275F732AC471D70071E614 /* Kinesthesie.swift */; };
+		8F433CA32AB5DBB300CF4DA1 /* SpaceGrotesk-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8F433CA22AB5DBB300CF4DA1 /* SpaceGrotesk-Medium.otf */; };
+		8F4CC9792AC18C0300F15A46 /* EcranProjetsEnCoursNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4CC9782AC18C0300F15A46 /* EcranProjetsEnCoursNavigation.swift */; };
+		8F54F0FE2AB306E80053D9AB /* Exercice Sliders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F54F0FD2AB306E80053D9AB /* Exercice Sliders.swift */; };
+		8FC58F192AC2E60500485E4D /* EcranTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC58F182AC2E60500485E4D /* EcranTimer.swift */; };
+		8FF98CF82AC5965E00CDAA3A /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF98CF72AC5965E00CDAA3A /* SplashView.swift */; };
+		8FFA49E92ABAE983003D7FF4 /* TabViewAteampique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFA49E82ABAE983003D7FF4 /* TabViewAteampique.swift */; };
+		8FFB3BF62AB1A519000D1746 /* Ateampique_test_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFB3BF52AB1A519000D1746 /* Ateampique_test_App.swift */; };
+		8FFB3BF82AB1A519000D1746 /* Ecran projets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFB3BF72AB1A519000D1746 /* Ecran projets.swift */; };
+		8FFB3BFA2AB1A51A000D1746 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FFB3BF92AB1A51A000D1746 /* Assets.xcassets */; };
+		8FFB3BFE2AB1A51A000D1746 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FFB3BFD2AB1A51A000D1746 /* Preview Assets.xcassets */; };
+		8FFB3C092AB1DA93000D1746 /* Exercice Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFB3C082AB1DA93000D1746 /* Exercice Button.swift */; };
+		8FFB3C0B2AB1E884000D1746 /* Exercice Button 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFB3C0A2AB1E884000D1746 /* Exercice Button 2.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8F05938B2AB9C53600104C27 /* Ecran Medias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ecran Medias.swift"; sourceTree = "<group>"; };
+		8F16B3D52AB85228004CB563 /* Structure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structure.swift; sourceTree = "<group>"; };
+		8F1C39922AB493A40069746C /* SpaceGrotesk-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-Bold.otf"; sourceTree = "<group>"; };
+		8F1C39942AB495680069746C /* Ecran Nouveau Projet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ecran Nouveau Projet.swift"; sourceTree = "<group>"; };
+		8F275F572AC429460071E614 /* EcranEgypteAntique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcranEgypteAntique.swift; sourceTree = "<group>"; };
+		8F275F592AC42E7B0071E614 /* VirginiePageProgressionTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirginiePageProgressionTest.swift; sourceTree = "<group>"; };
+		8F275F5B2AC4300F0071E614 /* Mymedia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mymedia.swift; sourceTree = "<group>"; };
+		8F275F5D2AC45C2B0071E614 /* EgyptianVideosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EgyptianVideosView.swift; sourceTree = "<group>"; };
+		8F275F5F2AC45F770071E614 /* VirginiePageProfilTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirginiePageProfilTest.swift; sourceTree = "<group>"; };
+		8F275F612AC469B20071E614 /* MediaNotes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MediaNotes.swift; sourceTree = "<group>"; };
+		8F275F632AC469E00071E614 /* BruitBlanc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BruitBlanc.swift; sourceTree = "<group>"; };
+		8F275F652AC46B1B0071E614 /* bruitBlanc.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bruitBlanc.mp3; sourceTree = "<group>"; };
+		8F275F672AC470510071E614 /* Methodes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Methodes.swift; sourceTree = "<group>"; };
+		8F275F692AC470670071E614 /* MePomo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MePomo.swift; sourceTree = "<group>"; };
+		8F275F6B2AC470730071E614 /* BruitsBlancs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BruitsBlancs.swift; sourceTree = "<group>"; };
+		8F275F6D2AC4708B0071E614 /* Carthographie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Carthographie.swift; sourceTree = "<group>"; };
+		8F275F6F2AC4709A0071E614 /* ZappelPhillip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZappelPhillip.swift; sourceTree = "<group>"; };
+		8F275F712AC470A60071E614 /* Tdah.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tdah.swift; sourceTree = "<group>"; };
+		8F275F732AC471D70071E614 /* Kinesthesie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kinesthesie.swift; sourceTree = "<group>"; };
+		8F433CA22AB5DBB300CF4DA1 /* SpaceGrotesk-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpaceGrotesk-Medium.otf"; sourceTree = "<group>"; };
+		8F4CC9782AC18C0300F15A46 /* EcranProjetsEnCoursNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcranProjetsEnCoursNavigation.swift; sourceTree = "<group>"; };
+		8F54F0FD2AB306E80053D9AB /* Exercice Sliders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exercice Sliders.swift"; sourceTree = "<group>"; };
+		8FC58F182AC2E60500485E4D /* EcranTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcranTimer.swift; sourceTree = "<group>"; };
+		8FF98CF72AC5965E00CDAA3A /* SplashView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		8FFA49E82ABAE983003D7FF4 /* TabViewAteampique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewAteampique.swift; sourceTree = "<group>"; };
+		8FFB3BF22AB1A519000D1746 /* Zappel Philipp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Zappel Philipp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FFB3BF52AB1A519000D1746 /* Ateampique_test_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ateampique_test_App.swift; sourceTree = "<group>"; };
+		8FFB3BF72AB1A519000D1746 /* Ecran projets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ecran projets.swift"; sourceTree = "<group>"; };
+		8FFB3BF92AB1A51A000D1746 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8FFB3BFB2AB1A51A000D1746 /* Ateampique_test_.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Ateampique_test_.entitlements; sourceTree = "<group>"; };
+		8FFB3BFD2AB1A51A000D1746 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8FFB3C052AB1C466000D1746 /* Ateampique-test--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Ateampique-test--Info.plist"; sourceTree = SOURCE_ROOT; };
+		8FFB3C082AB1DA93000D1746 /* Exercice Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exercice Button.swift"; sourceTree = "<group>"; };
+		8FFB3C0A2AB1E884000D1746 /* Exercice Button 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exercice Button 2.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8FFB3BEF2AB1A519000D1746 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8FFB3BE92AB1A519000D1746 = {
+			isa = PBXGroup;
+			children = (
+				8F275F652AC46B1B0071E614 /* bruitBlanc.mp3 */,
+				8FFA49E82ABAE983003D7FF4 /* TabViewAteampique.swift */,
+				8FFB3BF42AB1A519000D1746 /* Ateampique(test) */,
+				8FFB3BF32AB1A519000D1746 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8FFB3BF32AB1A519000D1746 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8FFB3BF22AB1A519000D1746 /* Zappel Philipp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8FFB3BF42AB1A519000D1746 /* Ateampique(test) */ = {
+			isa = PBXGroup;
+			children = (
+				8F1C39922AB493A40069746C /* SpaceGrotesk-Bold.otf */,
+				8F433CA22AB5DBB300CF4DA1 /* SpaceGrotesk-Medium.otf */,
+				8FFB3C052AB1C466000D1746 /* Ateampique-test--Info.plist */,
+				8F275F5D2AC45C2B0071E614 /* EgyptianVideosView.swift */,
+				8FFB3BF52AB1A519000D1746 /* Ateampique_test_App.swift */,
+				8F16B3D52AB85228004CB563 /* Structure.swift */,
+				8FFB3BF72AB1A519000D1746 /* Ecran projets.swift */,
+				8F4CC9782AC18C0300F15A46 /* EcranProjetsEnCoursNavigation.swift */,
+				8F275F5F2AC45F770071E614 /* VirginiePageProfilTest.swift */,
+				8F1C39942AB495680069746C /* Ecran Nouveau Projet.swift */,
+				8F275F572AC429460071E614 /* EcranEgypteAntique.swift */,
+				8F275F612AC469B20071E614 /* MediaNotes.swift */,
+				8F275F5B2AC4300F0071E614 /* Mymedia.swift */,
+				8F275F632AC469E00071E614 /* BruitBlanc.swift */,
+				8F275F592AC42E7B0071E614 /* VirginiePageProgressionTest.swift */,
+				8F05938B2AB9C53600104C27 /* Ecran Medias.swift */,
+				8FC58F182AC2E60500485E4D /* EcranTimer.swift */,
+				8F275F672AC470510071E614 /* Methodes.swift */,
+				8F275F732AC471D70071E614 /* Kinesthesie.swift */,
+				8FF98CF72AC5965E00CDAA3A /* SplashView.swift */,
+				8F275F6D2AC4708B0071E614 /* Carthographie.swift */,
+				8F275F6B2AC470730071E614 /* BruitsBlancs.swift */,
+				8F275F692AC470670071E614 /* MePomo.swift */,
+				8F275F6F2AC4709A0071E614 /* ZappelPhillip.swift */,
+				8F275F712AC470A60071E614 /* Tdah.swift */,
+				8FFB3C082AB1DA93000D1746 /* Exercice Button.swift */,
+				8FFB3C0A2AB1E884000D1746 /* Exercice Button 2.swift */,
+				8F54F0FD2AB306E80053D9AB /* Exercice Sliders.swift */,
+				8FFB3BF92AB1A51A000D1746 /* Assets.xcassets */,
+				8FFB3BFB2AB1A51A000D1746 /* Ateampique_test_.entitlements */,
+				8FFB3BFC2AB1A51A000D1746 /* Preview Content */,
+			);
+			path = "Ateampique(test)";
+			sourceTree = "<group>";
+		};
+		8FFB3BFC2AB1A51A000D1746 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8FFB3BFD2AB1A51A000D1746 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8FFB3BF12AB1A519000D1746 /* Ateampique(test) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8FFB3C012AB1A51A000D1746 /* Build configuration list for PBXNativeTarget "Ateampique(test)" */;
+			buildPhases = (
+				8FFB3BEE2AB1A519000D1746 /* Sources */,
+				8FFB3BEF2AB1A519000D1746 /* Frameworks */,
+				8FFB3BF02AB1A519000D1746 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Ateampique(test)";
+			productName = "Ateampique(test)";
+			productReference = 8FFB3BF22AB1A519000D1746 /* Zappel Philipp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8FFB3BEA2AB1A519000D1746 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					8FFB3BF12AB1A519000D1746 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 8FFB3BED2AB1A519000D1746 /* Build configuration list for PBXProject "Ateampique(test)" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8FFB3BE92AB1A519000D1746;
+			productRefGroup = 8FFB3BF32AB1A519000D1746 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8FFB3BF12AB1A519000D1746 /* Ateampique(test) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8FFB3BF02AB1A519000D1746 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F275F662AC46B1B0071E614 /* bruitBlanc.mp3 in Resources */,
+				8F433CA32AB5DBB300CF4DA1 /* SpaceGrotesk-Medium.otf in Resources */,
+				8FFB3BFE2AB1A51A000D1746 /* Preview Assets.xcassets in Resources */,
+				8F1C39932AB493A40069746C /* SpaceGrotesk-Bold.otf in Resources */,
+				8FFB3BFA2AB1A51A000D1746 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8FFB3BEE2AB1A519000D1746 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F275F602AC45F770071E614 /* VirginiePageProfilTest.swift in Sources */,
+				8F275F6C2AC470730071E614 /* BruitsBlancs.swift in Sources */,
+				8F275F582AC429460071E614 /* EcranEgypteAntique.swift in Sources */,
+				8FFA49E92ABAE983003D7FF4 /* TabViewAteampique.swift in Sources */,
+				8F275F742AC471D70071E614 /* Kinesthesie.swift in Sources */,
+				8F275F682AC470510071E614 /* Methodes.swift in Sources */,
+				8F275F6E2AC4708B0071E614 /* Carthographie.swift in Sources */,
+				8FC58F192AC2E60500485E4D /* EcranTimer.swift in Sources */,
+				8F54F0FE2AB306E80053D9AB /* Exercice Sliders.swift in Sources */,
+				8FFB3C0B2AB1E884000D1746 /* Exercice Button 2.swift in Sources */,
+				8F16B3D62AB85228004CB563 /* Structure.swift in Sources */,
+				8F275F5C2AC4300F0071E614 /* Mymedia.swift in Sources */,
+				8FFB3C092AB1DA93000D1746 /* Exercice Button.swift in Sources */,
+				8F275F622AC469B20071E614 /* MediaNotes.swift in Sources */,
+				8FFB3BF82AB1A519000D1746 /* Ecran projets.swift in Sources */,
+				8F275F6A2AC470670071E614 /* MePomo.swift in Sources */,
+				8F275F702AC4709A0071E614 /* ZappelPhillip.swift in Sources */,
+				8F275F5E2AC45C2B0071E614 /* EgyptianVideosView.swift in Sources */,
+				8FFB3BF62AB1A519000D1746 /* Ateampique_test_App.swift in Sources */,
+				8F275F642AC469E00071E614 /* BruitBlanc.swift in Sources */,
+				8F4CC9792AC18C0300F15A46 /* EcranProjetsEnCoursNavigation.swift in Sources */,
+				8FF98CF82AC5965E00CDAA3A /* SplashView.swift in Sources */,
+				8F1C39952AB495680069746C /* Ecran Nouveau Projet.swift in Sources */,
+				8F275F5A2AC42E7B0071E614 /* VirginiePageProgressionTest.swift in Sources */,
+				8F275F722AC470A60071E614 /* Tdah.swift in Sources */,
+				8F05938C2AB9C53600104C27 /* Ecran Medias.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8FFB3BFF2AB1A51A000D1746 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8FFB3C002AB1A51A000D1746 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		8FFB3C022AB1A51A000D1746 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Ateampique(test)/Ateampique_test_.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Ateampique(test)/Preview Content\"";
+				DEVELOPMENT_TEAM = M45R7LL695;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Ateampique-test--Info.plist";
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Claire.Ateampique-test-";
+				PRODUCT_NAME = "Zappel Philipp";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8FFB3C032AB1A51A000D1746 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Ateampique(test)/Ateampique_test_.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Ateampique(test)/Preview Content\"";
+				DEVELOPMENT_TEAM = M45R7LL695;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Ateampique-test--Info.plist";
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 13.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Claire.Ateampique-test-";
+				PRODUCT_NAME = "Zappel Philipp";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8FFB3BED2AB1A519000D1746 /* Build configuration list for PBXProject "Ateampique(test)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FFB3BFF2AB1A51A000D1746 /* Debug */,
+				8FFB3C002AB1A51A000D1746 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8FFB3C012AB1A51A000D1746 /* Build configuration list for PBXNativeTarget "Ateampique(test)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8FFB3C022AB1A51A000D1746 /* Debug */,
+				8FFB3C032AB1A51A000D1746 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8FFB3BEA2AB1A519000D1746 /* Project object */;
+}
